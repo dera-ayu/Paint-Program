@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(54): warning C4551: function call missing argument list
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(230): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\coolyeah\fcg\assignment2\assignment2\source.cpp(232): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assignment2.vcxproj -> D:\Coolyeah\FCG\Assignment2\Debug\Assignment2.exe
